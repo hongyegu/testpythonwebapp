@@ -2,62 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d595d85-5438-46d0-85bb-882a9f6c4276" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/coroweb.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/testpythonwebapp.iml" afterPath="$PROJECT_DIR$/.idea/testpythonwebapp.iml" />
-      <change beforePath="$PROJECT_DIR$/venv/.Python" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/bin/python3.6" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/__future__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/_bootlocale.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/_collections_abc.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/_dummy_thread.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/_weakrefset.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/abc.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/base64.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/bisect.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/codecs.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/copy.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/copyreg.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/distutils/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/distutils/distutils.cfg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/enum.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/fnmatch.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/functools.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/genericpath.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/hashlib.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/heapq.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/hmac.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/imp.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/io.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/keyword.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/linecache.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/locale.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/no-global-site-packages.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/ntpath.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/operator.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/orig-prefix.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/os.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/posixpath.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/random.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/re.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/readline.so" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/reprlib.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/rlcompleter.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/shutil.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/site.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/sre_compile.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/sre_constants.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/sre_parse.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/stat.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/struct.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/tarfile.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/tempfile.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/token.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/tokenize.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/types.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/warnings.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/venv/lib/python3.6/weakref.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,8 +16,8 @@
       <file leaf-file-name="coroweb.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coroweb.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+            <state relative-caret-position="210">
+              <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding>
                 <element signature="e#77#124#0" expanded="true" />
               </folding>
@@ -134,6 +79,11 @@
             <path>
               <item name="testpythonwebapp" type="b2602c69:ProjectViewProjectNode" />
               <item name="testpythonwebapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testpythonwebapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testpythonwebapp" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -246,8 +196,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/coroweb.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        <state relative-caret-position="210">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding>
             <element signature="e#77#124#0" expanded="true" />
           </folding>
