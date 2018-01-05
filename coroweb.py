@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-__author__ = 'Michael Liao'
+__author__ = 'guhongye'
 
 import asyncio, os, inspect, logging, functools
 
@@ -9,7 +9,7 @@ from urllib import parse
 
 from aiohttp import web
 
-from apis import APIError
+import apis
 
 def get(path):
     '''
